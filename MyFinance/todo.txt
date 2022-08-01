@@ -1,0 +1,11 @@
+Lista de updates desse projeto:
+
+1. Criar uma API
+2. Criar um web-react projeto WebUI
+3. Tentar criar esse projeto em Arquitetura Limpa
+4. Usar banco de dados MySQL com docker-compose
+5. Criar projetos de Testes Unitarios usando xUnit
+6. Prazo de entrega do projeto usar sprints: 01/09/2022
+
+
+Usar 
