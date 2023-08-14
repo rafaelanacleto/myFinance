@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ywBnLICvnTM617jdxmrkCyZYIwOQ44HEEY+m3DCqaOLsVCB8sHpvPujL78/HlTWwJ1sXfjbkb+J/44ZYqqsluA==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\myFinance\\myFinance.Domain\\myFinance.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "69Z9cf2kzr/tj0Y9JAar7AUOWLRue3kjCFR0xU7CTW1RYmftRwJ6ZIQr9zCtVCxnn0tct+W/MZdsadP6Rwyupg==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\myFinance\\myFinance.Infra.IoC\\myFinance.Infra.IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
