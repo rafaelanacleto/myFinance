@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "oq5eIG81RjmRV5+IKn9sAXd48MFAzG0FVApKS5b/6PxhKUkH0zfPkJ9QkzC9G/bL4F+uSgjxPPzkVecBTeIN1w==",
+  "dgSpecHash": "ekiLD6LXp80Nl0gvNmaYdNdd2yhs2WVndfRb5ND7KB19RDLXeP/j8rSDLnSSXaT2iivFFCuq/U09BoBMX6HJQg==",
   "success": true,
   "projectFilePath": "C:\\repos\\myFinance\\myFinance.API\\myFinance.API.csproj",
   "expectedPackageFiles": [
@@ -10,10 +10,10 @@
     "C:\\Users\\rafae\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
-    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
-    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
-    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
-    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
   ],
   "logs": []
 }

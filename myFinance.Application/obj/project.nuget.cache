@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jsAnBsm8oawN2tL0WdOVYTFVkSdK06adb6svT7UmHcibuf2PJa2oiKsGLnNPGywzoZllqIJRaIejyIUq0GjyJA==",
+  "dgSpecHash": "s5WWzfa8UUI7sXryMEbm7/66VPqmWl5G+4C9vh/ugfqjCaHnNn/lyMWxV44YtnDz4p7BRaZdZ1tGQ3or+YVuBw==",
   "success": true,
   "projectFilePath": "C:\\repos\\myFinance\\myFinance.Application\\myFinance.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
-    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
-    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512"
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512"
   ],
   "logs": []
 }
